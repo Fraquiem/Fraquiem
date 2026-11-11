@@ -3,7 +3,7 @@
 
 I'm a Computer Science and Engineering student at **EIA University, Colombia**, with hands-on experience in backend development, language model integration, data science and AI agent orchestration.
 
-I work primarily with **Python, SQL, and Java**, building applications with frameworks and tools such as FastAPI, Django, Spring Boot, PySpark, and PostgreSQL. 1+ year of daily-driving linux as my personal development environment.
+I work primarily with **Python, SQL, and Java**, building applications with frameworks and tools such as FastAPI, Django, Spring Boot, PySpark, and PostgreSQL. Over a year of daily Linux use as my primary development environment, developing strong command-line proficiency, system administration knowledge, and troubleshooting skills.
 
 My projects bring together **software engineering, applied AI, and workflow automation**. I'm particularly interested in **data engineering, analytics, and machine learning**, and I enjoy exploring unfamiliar technologies, understanding how they work, and applying them to real-world problems.
 
